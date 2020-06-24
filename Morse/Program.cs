@@ -9,14 +9,20 @@ namespace Morse
     {
         static void Main(string[] args)
         {
-        //    string TextoLeido = Console.ReadLine();
+            //    string TextoLeido = Console.ReadLine();
 
-        //    string result = ConversorDeMorse.TextoAMorse(TextoLeido);
+            //    string result = ConversorDeMorse.TextoAMorse(TextoLeido);
+            //    Console.WriteLine(result);
+
+
+            string TextoInser = Console.ReadLine(); // ... --- ... / 
+
+
+            ConversorDeMorse.CrearArchivoTAM(TextoInser);
+        
+        //string result = ConversorDeMorse.MorseATexto(MorseLeido);
+        //   result = result.ToUpper();
         //    Console.WriteLine(result);
-
-
-        string MorseLeido = Console.ReadLine();
-        string result = ConversorDeMorse.MorseATexto(MorseLeido);
         }
     }
 }
