@@ -1,0 +1,13 @@
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\bin\Debug\netcoreapp3.1\Morse.exe
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\bin\Debug\netcoreapp3.1\Morse.deps.json
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\bin\Debug\netcoreapp3.1\Morse.runtimeconfig.json
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\bin\Debug\netcoreapp3.1\Morse.runtimeconfig.dev.json
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\bin\Debug\netcoreapp3.1\Morse.dll
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\bin\Debug\netcoreapp3.1\Morse.pdb
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\obj\Debug\netcoreapp3.1\Morse.csprojAssemblyReference.cache
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\obj\Debug\netcoreapp3.1\Morse.AssemblyInfoInputs.cache
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\obj\Debug\netcoreapp3.1\Morse.AssemblyInfo.cs
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\obj\Debug\netcoreapp3.1\Morse.csproj.CoreCompileInputs.cache
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\obj\Debug\netcoreapp3.1\Morse.dll
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\obj\Debug\netcoreapp3.1\Morse.pdb
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\obj\Debug\netcoreapp3.1\Morse.genruntimeconfig.cache

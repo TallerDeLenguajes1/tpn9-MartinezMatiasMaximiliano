@@ -1,0 +1,13 @@
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\OrganizarArchivos\bin\Debug\netcoreapp3.1\OrganizarArchivos.exe
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\OrganizarArchivos\bin\Debug\netcoreapp3.1\OrganizarArchivos.deps.json
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\OrganizarArchivos\bin\Debug\netcoreapp3.1\OrganizarArchivos.runtimeconfig.json
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\OrganizarArchivos\bin\Debug\netcoreapp3.1\OrganizarArchivos.runtimeconfig.dev.json
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\OrganizarArchivos\bin\Debug\netcoreapp3.1\OrganizarArchivos.dll
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\OrganizarArchivos\bin\Debug\netcoreapp3.1\OrganizarArchivos.pdb
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\OrganizarArchivos\obj\Debug\netcoreapp3.1\OrganizarArchivos.AssemblyInfoInputs.cache
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\OrganizarArchivos\obj\Debug\netcoreapp3.1\OrganizarArchivos.AssemblyInfo.cs
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\OrganizarArchivos\obj\Debug\netcoreapp3.1\OrganizarArchivos.csproj.CoreCompileInputs.cache
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\OrganizarArchivos\obj\Debug\netcoreapp3.1\OrganizarArchivos.dll
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\OrganizarArchivos\obj\Debug\netcoreapp3.1\OrganizarArchivos.pdb
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\OrganizarArchivos\obj\Debug\netcoreapp3.1\OrganizarArchivos.genruntimeconfig.cache
+C:\Repogit\tpn9-MartinezMatiasMaximiliano\OrganizarArchivos\obj\Debug\netcoreapp3.1\OrganizarArchivos.csprojAssemblyReference.cache
