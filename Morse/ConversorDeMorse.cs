@@ -219,10 +219,35 @@ namespace Helpers
             else
             {
                 StreamWriter writer = new StreamWriter(File.Open(DireMorse + nombre, FileMode.Create));
-                writer.Write($"{textoT} ---->{textoM}");
+                writer.Write($"{textoM}");
                 writer.Close();
 
             }
         }
+
+        public static string LeerArchivo(string Archivo)
+        {
+            string Directorio = @"C:\Repogit\tpn9-MartinezMatiasMaximiliano\Morse\Morse\";
+            string[] archivosEnDirectorio = Directory.GetFiles(Directorio);
+            string nombreArchivo= "";
+            foreach (string item in archivosEnDirectorio)
+            {
+                if (item.Contains(Archivo))
+                {
+                    string[] nombre = item.Split(@"\");
+                    nombreArchivo = nombre[nombre.Length - 1];
+                }
+            }
+            
+            
+            
+
+            StreamReader reader = new StreamReader(File.Open($"{Directorio}\\{nombreArchivo}", FileMode.Open));
+            string TextoLeido = reader.ReadLine();
+            reader.Close();
+
+            return TextoLeido ;
+        }
+
     }
 }
